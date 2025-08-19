@@ -1,3 +1,8 @@
+Day 1.
+
+실시간 데이터공유
+https://github.com/nadopro/welcome
+
 Q1.
 로또 프로그램을 만들어 줘.
 
